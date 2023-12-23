@@ -1,3 +1,6 @@
+
+![wepik-professional-technology-twitter-header-202312231812356y3o](https://github.com/sithmiH/sithmiH/assets/154695364/5f65f28d-c72b-4dd1-bec2-e6733ac6e145)
+
 <h1 align="center">Hi 👋, I'm Sithmi Himanshi</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
